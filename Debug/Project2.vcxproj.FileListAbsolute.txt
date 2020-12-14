@@ -1,0 +1,2 @@
+D:\Summer\CC++\CC++\Project2\Debug\Project2.pdb
+D:\Summer\CC++\CC++\Project2\Debug\Project2.exe
